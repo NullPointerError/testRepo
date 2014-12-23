@@ -7,6 +7,8 @@ public class ball : MonoBehaviour {
 	public float yDelta = 0.2f;
 	public Vector3 hitPosition;
 	public LineRenderer line;
+	//test comment
+	
 
 	// Use this for initialization
 	void Start () {
